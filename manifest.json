@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Codenames",
+  "version": "1.0",
+  "description": "Extracts all <p> elements' text from the current webpage.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "CODENAMES_ICON.png"
+  },
+  "host_permissions": ["<all_urls>"]
+}

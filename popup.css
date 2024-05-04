@@ -1,0 +1,103 @@
+* {
+  font-family: "poppins", sans-serif;
+  color: white;
+}
+
+body {
+  /* background: linear-gradient(to right, #3a3a3a, #000000); */
+
+  background: linear-gradient(to left, #561407, #a64124);
+
+  min-width: 300px;
+  max-width: 300px;
+  /* background-color: rgba(0, 0, 0, 0.5); */
+}
+
+/* .div-main {
+  background: linear-gradient(to left, #561407, #a64124);
+} */
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#extractButtonRed {
+  background: linear-gradient(to right, #ff8631, #ef5d1c);
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 50px;
+  font-size: 1rem;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  cursor: pointer;
+}
+
+#extractButtonBlue {
+  background: linear-gradient(to right, #44c2d7, #00a4bd);
+  color: white;
+  border: none;
+  text-align: center;
+  width: 50px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  cursor: pointer;
+}
+
+#copy {
+  background: linear-gradient(to right, #3b3b3b, #151515);
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  cursor: pointer;
+}
+#operatorButton {
+  background: linear-gradient(to right, #27ffac, #00570c);
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  cursor: pointer;
+}
+button {
+  border-radius: 0.3rem;
+}
+
+#paragraphsContainer {
+  border: #ffffff 1px solid;
+  border-radius: 0.3rem;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  overflow: hidden;
+  word-wrap: break-word; /* Allows long words to break and wrap onto the next line */
+  color: white;
+  font-size: 0.9rem;
+}
+
+.title {
+  font-size: 1rem;
+  margin: 0.3rem;
+  font-weight: 700;
+}
+
+.blue {
+  background: linear-gradient(to left, #0f4c75, #1b262c);
+}
+
+.red {
+  background: linear-gradient(to left, #561407, #a64124);
+}
