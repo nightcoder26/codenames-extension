@@ -57,7 +57,7 @@ Codenames is a popular board game where players split into two teams: red and bl
 Play it online here [Codenames](https://codenames.game/) 
 
 
- ## Contributers 🤝
+ ## Contributors 🤝
 ![Abhishek D](https://img.shields.io/badge/Abhishek%20D-08e882) <br>
 ![Bhavitha M](https://img.shields.io/badge/Bhavitha%20M-e8f458)
 
