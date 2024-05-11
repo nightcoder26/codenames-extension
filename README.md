@@ -1,17 +1,17 @@
-# Codenames Prompt Generator Chrome Extension
+# Codenames Prompt Generator Chrome Extension 
 
 
 Welcome to the Codenames Prompt Generator Chrome Extension! This extension is designed to enhance your Codenames gameplay experience by providing prompts for both Operatives and Spymasters.
 
 ## How it Works
 
-### For Operatives:
+### For Operatives 🪱:
 1. **Get Prompts**: Click on the Operator while playing Codenames as an Operative.
-2. **Copy Prompt**: Copy the generated prompt from the extension popup.
+2. **Copy Prompt**: Copy the generated prompt 🪄 from the extension popup.
 3. **Paste into ChatGPT**: Paste the prompt into ChatGPT to find the words based on the hints .
 
-### For Spymasters:
-1. **Choose Team**: Indicate whether you are on the red or blue team.
+### For Spymasters 🕵️:
+1. **Choose Team**: Indicate whether you are on the red🟥 or blue🟦 team.
 2. **Copy Prompt**: Copy the generated prompt from the popup.
 3. **Paste into ChatGPT**: Paste the prompt into ChatGPT to receive hints specific to your team's words.
 
@@ -56,4 +56,12 @@ git clone https://nightcoder26/codenames-extension.git
 Codenames is a popular board game where players split into two teams: red and blue. Each team has a Spymaster who gives one-word clues to guide their team members in guessing the right words on the board while avoiding the words belonging to the opposing team or the neutral words.
 Play it online here [Codenames](https://codenames.game/) 
 
- This extension is for entertainment purposes only. Enjoy😉!
+
+ ## Contributers 🤝
+![Abhishek D](https://img.shields.io/badge/Abhishek%20D-08e882) <br>
+![Bhavitha M](https://img.shields.io/badge/Bhavitha%20M-e8f458)
+
+**P.S.**  This extension is for fun and games only (because real spies don't need extensions, duh ). Enjoy 😉!
+
+**P.P.S.**  We love contributions! If you've got ideas, feel free to tell us (well, not really, but raise an issue or PR 🙋‍♀️🙋‍♂️ ).<br>
+We're all ears (and eyes 👁️👄👁️👂).
